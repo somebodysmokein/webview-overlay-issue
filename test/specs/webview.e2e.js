@@ -47,5 +47,7 @@ describe('Scroll issue webview', () => {
     console.log('Text:', text); */
     
     //assert(allProductsName.length > 0);
+
+    ////*[normalize-space(text())="iPhone 12"]
   });
 });
