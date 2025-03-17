@@ -37,8 +37,8 @@ export const config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        //'./test/specs/**/*.js',
-        './test/specs/**/webview.e2e.js',
+        //'./test/specs/**/*.js',        
+        './test/specs/**/webview-debugging.e2e.js'
         
     ],
     // Patterns to exclude.
